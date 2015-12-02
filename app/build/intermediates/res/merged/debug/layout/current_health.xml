@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/currbg">
+
+        <TextView
+            android:id="@+id/tvHeartRate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="125dp"
+            android:text="Click the button"
+            android:visibility="invisible"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/buttonHeart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="75dp"
+            android:text="Heartbeat rate"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/buttonTemp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:text="Temparatue"
+            android:textColor="#FFFFFF" />
+
+</LinearLayout><!-- From: file:/C:/Users/Rakshith's%20%20PC/AndroidStudioProjects/HealthAssist/app/src/main/res/layout/current_health.xml -->

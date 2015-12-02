@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:dialogTitle="Name"
+        android:key="name"
+        android:summary="Enter your name"
+        android:title="Name" />
+    <EditTextPreference
+        android:dialogTitle="Number 1"
+        android:key="number1"
+        android:summary="Enter the number of the 1st person"
+        android:title="Number 1"/>
+    <EditTextPreference
+        android:dialogTitle="Number 2"
+        android:key="number2"
+        android:summary="Enter the number of the 2nd person"
+        android:title="Number 2" />
+    <EditTextPreference
+        android:dialogTitle="Number 3"
+        android:key="number3"
+        android:summary="Enter the number of the 3rd person"
+        android:title="Number 3" />
+    <EditTextPreference
+        android:dialogTitle="Number 4"
+        android:key="number4"
+        android:summary="Enter the number of the 4th person"
+        android:title="Number 4" />
+    <EditTextPreference
+        android:dialogTitle="Number 5"
+        android:key="number5"
+        android:summary="Enter the number of the 5th person"
+        android:title="Number 5" />
+
+</PreferenceScreen>

@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Health Assist</string>
+    <string name="title_activity_initial_screen">Health Assist</string>
+    <string name="title_prefs">Preferences</string>
+    <string name="recbtn">RECORD</string>
+    <string name="wrecbtn">WITHOUT RECORD</string>
+    <string name="exitbtn">EXIT</string>
+    <string name="currbtn">CURRENT HEALTH STATUS</string>
+    <string name="settingsbtn">SETTINGS</string>
+    <string name="title_current_health">My Health</string>
+    <string name="emergbtn">Emergency</string>
+
+</resources>

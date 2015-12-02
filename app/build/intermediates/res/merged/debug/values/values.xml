@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Rakshith's%20%20PC/AndroidStudioProjects/HealthAssist/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <!-- From: file:/C:/Users/Rakshith's%20%20PC/AndroidStudioProjects/HealthAssist/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Health Assist</string>
+    <string name="currbtn">CURRENT HEALTH STATUS</string>
+    <string name="emergbtn">Emergency</string>
+    <string name="exitbtn">EXIT</string>
+    <string name="recbtn">RECORD</string>
+    <string name="settingsbtn">SETTINGS</string>
+    <string name="title_activity_initial_screen">Health Assist</string>
+    <string name="title_current_health">My Health</string>
+    <string name="title_prefs">Preferences</string>
+    <string name="wrecbtn">WITHOUT RECORD</string>
+    <!-- From: file:/C:/Users/Rakshith's%20%20PC/AndroidStudioProjects/HealthAssist/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

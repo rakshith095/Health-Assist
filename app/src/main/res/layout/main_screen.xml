@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg" >
+
+    <Button
+        android:id="@+id/currButton"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="@string/currbtn"
+        android:textColor="#FFFFFF"
+         />
+
+    <Button
+        android:id="@+id/recButton"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/currButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/recbtn"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/wRecButton"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/recButton"        
+        android:layout_marginTop="20dp"
+        android:text="@string/wrecbtn"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/emergButton"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/wRecButton"
+        android:layout_marginTop="20dp"
+        android:text="@string/emergbtn"
+        android:textColor="#FFFFFF" />
+    <Button
+        android:id="@+id/settingButton"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/emergButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/settingsbtn" 
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/exitButton"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/settingButton"
+        android:layout_marginTop="20dp"
+        android:text="@string/exitbtn"
+        android:textColor="#FFFFFF" />
+
+</RelativeLayout>
